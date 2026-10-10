@@ -4,7 +4,7 @@
 
 Este repositorio contiene la documentación y demostración práctica de una auditoría de seguridad realizada en un entorno de laboratorio controlado.
 
-## 📺 Video de la Demostración
+##  Video de la Demostración
 
 Haz clic en la imagen de abajo para ver el video completo de la auditoría en YouTube:
 
